@@ -7,6 +7,10 @@
     "requestIdleCallback",
     "shim"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HenrikJoreteg/ric-shim.git"
+  },
   "license": "MIT",
   "main": "index.js"
 }
